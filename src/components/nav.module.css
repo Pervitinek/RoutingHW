@@ -1,0 +1,19 @@
+.header{
+    display: flex;
+    align-items: center;
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color: #171d25;
+    color: white;
+}
+.recolor:hover{
+    color: #ff6347;
+}
+.navigace_list{
+    list-style: none;
+    display: flex;
+    gap: 55px;
+}
+.nav{
+    margin-left: auto;
+}
